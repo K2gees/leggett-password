@@ -28,7 +28,7 @@ header {
 h2 {
   text-align: center;
 }
-/* .form{
+.form{
   display: grid;
   grid-template-columns: auto auto;
   row-gap: 1rem;
@@ -160,4 +160,4 @@ button[disabled] {
   .btn {
     font-size: 0.8rem;
   }
-} */
+}
