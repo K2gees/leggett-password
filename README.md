@@ -17,4 +17,5 @@ https://k2gees.github.io/leggett-password/
 ![Password success](./assets/images/password-success.png)
 
 ### Closing
+Our password generator is clean and concise.  All your password combinations and needs are answered with a few mouse clicks.
 
