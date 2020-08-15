@@ -14,7 +14,7 @@ https://k2gees.github.io/leggett-password/
 ## Screenshots
 ![Acceptance criteria](./assets/images/acceptance-criteria.png)
 ![Window prompt](./assets/images/window-prompt.png)
-![Password success](./assets/images/password.success)
+![Password success](./assets/images/password-success)
 
 ### Closing
 
