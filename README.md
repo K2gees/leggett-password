@@ -12,9 +12,9 @@ Java
 https://k2gees.github.io/leggett-password/
 
 ## Screenshots
-<link rel="screenshots" href="assets/images/acceptance-criteria.png">
-<link rel="screenshots" href="assets/images/window-prompt.png">
-<link rel="screenshots" href="assets/images/password-success.png">
+![Acceptance criteria](./assets/images/acceptance-criteria.png)
+![Window prompt](./assets/images/window-prompt.png)
+![Password success](./assets/images/password.success)
 
 ### Closing
 
